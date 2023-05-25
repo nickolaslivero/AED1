@@ -1,3 +1,8 @@
+/*
+    Nome: Nickolas Javier Santos Livero
+    Matricula: 2115310042
+*/
+
 #include <stdio.h>
 
 #define MAX_N 100
@@ -34,7 +39,7 @@ int verificarQuadradoMagico(int A[MAX_N][MAX_N], int n) {
     return 1;
 }
 
-int main() {
+int main(int argc, char** argv){
     int A[MAX_N][MAX_N];
     int n, i, j;
 

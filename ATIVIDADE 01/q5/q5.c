@@ -1,8 +1,13 @@
+/*
+    Nome: Nickolas Javier Santos Livero
+    Matricula: 2115310042
+*/
+
 #include <stdio.h>
 
 #define TAMANHO_VETOR 20
 
-int main() {
+int main(int argc, char** argv) {
     int numeros[TAMANHO_VETOR];
     int par[TAMANHO_VETOR];
     int impar[TAMANHO_VETOR];

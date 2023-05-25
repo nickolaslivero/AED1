@@ -1,6 +1,11 @@
+/*
+    Nome: Nickolas Javier Santos Livero
+    Matricula: 2115310042
+*/
+
 #include <stdio.h>
 
-int main() {
+int main(int argc, char** argv) {
     float notas[4];
     float soma = 0;
     float media;
