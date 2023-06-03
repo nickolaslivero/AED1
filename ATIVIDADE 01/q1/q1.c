@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 /*
     Nome: Nickolas Javier Santos Livero
     Matricula: 2115310042
 */
 
+=======
+>>>>>>> 8c15cbd783a46fda0bd9c4eb8bdd1540723a61ef
 #include <stdio.h>
 
 int main(int argc, char** argv) {
