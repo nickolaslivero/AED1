@@ -5,7 +5,7 @@
     Atividade 05: recursao vs iteração
 */
 
-include <stdio.h>
+#include <stdio.h>
 
 long fatorial(long n)
 {
