@@ -1,4 +1,11 @@
-#include <stdio.h>
+/*
+    Nome:   Nickolas Javier Santos Livero
+    Mat:    2115310042
+    
+    Atividade 05: recursao vs iteração
+*/
+
+include <stdio.h>
 
 long fatorial(long n)
 {
